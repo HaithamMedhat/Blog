@@ -1,0 +1,23 @@
+.NormalLi{
+    color : white;
+    background-color: transparent;
+   }
+.active , .NormalLi{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+    text-decoration: none;
+    padding: 0 10px;
+    font-family: 500;
+    background-color: transparent;
+
+}
+
+.active {
+    color : rgb(98, 198, 216);
+}
+.active:hover{
+    color : rgb(98, 198, 216);
+}
+.NormalLi:hover{
+    color : rgb(98, 198, 216);
+}
